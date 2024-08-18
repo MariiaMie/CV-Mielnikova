@@ -188,6 +188,12 @@ h1 {
     line-height: 20px;
     margin-bottom: 11px;
 }
+.course-name {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 11px;
+}
 .education-date {
     font-weight: 400;
     font-size: 12px;
