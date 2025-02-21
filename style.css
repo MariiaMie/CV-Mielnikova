@@ -63,7 +63,7 @@ aside {
 
 main {
     padding-left: 88px;
-    padding-top: 102px;
+    padding-top: 80px;
     padding-bottom: 102px;
     padding-right: 88px;
 }
@@ -104,14 +104,14 @@ h1 {
     line-height: 24px;
     color: #595959;
     list-style-position: outside;
-    padding-left: 16px;
+    padding-left: 35px;
     padding-right: 17px;
 }
 .list-primary {
     font-weight: 700;
     font-size: 14px;
     line-height: 24px;
-    padding-left: 0px;
+    padding-left: 20px;
     list-style-position: inside;
 }
 .list-primaty-item {
@@ -152,7 +152,7 @@ h1 {
     line-height: 24px;
     color: #595959;
     list-style-position: outside;
-    padding-left: 16px;
+    padding-left: 35px;
     padding-right: 88px;
 }
 .education-block {
@@ -164,7 +164,7 @@ h1 {
     line-height: 24px;
     color: #595959;
     list-style-position: outside;
-    padding-left: 16px;
+    padding-left: 35px;
     padding-right: 88px;
 }
 .university-list {
@@ -173,7 +173,7 @@ h1 {
     line-height: 24px;
     color: #595959;
     list-style-position: outside;
-    padding-left: 16px;
+    padding-left: 35px;
     padding-right: 88px;
 }
 .course-name {
