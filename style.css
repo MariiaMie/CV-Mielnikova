@@ -25,6 +25,12 @@ aside {
     color: #ffffff;
     font-size: 14px;
     line-height: 24px;
+    a:link {
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
 }
 .bold {
     font-weight: 700;
@@ -43,6 +49,7 @@ aside {
 .contact-block {
     margin-top: 51px;
     margin-left: 40px;
+    text-decoration: none;
 }
 .tech-skills-block {
     margin-left: 40px;
